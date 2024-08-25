@@ -12,7 +12,7 @@
 - [ ]  Finish the "First day on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
 - [ ]  Finish the "First week on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
 
-View my GitHub profile and repos <a href="https://github.com/cfornesa">here</a>.
+View my GitHub profile and repos <a href="https://github.com/cfornesa">here</a> and visit my <a href="https://chris.com.ph">main portfolio website</a>.
 
 <!---
 cfornesa/cfornesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
