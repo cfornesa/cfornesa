@@ -1,6 +1,5 @@
----
-title: About Me
----
+# About Me
+
 
 ## Who I Am
 - 👋 Hi, I’m Chris Fornesa and my handle is @cfornesa on <a href="https://github.com/cfornesa">GitHub</a> and <a href="https://www.linkedin.com/in/cfornesa/" target="_blank">LinkedIn</a>.
