@@ -1,3 +1,7 @@
+<h1 style="text-align: center;">CFornesa</h1>
+
+<h3 style="text-align: center;">A very curious person.</h3>
+
 - 👋 Hi, I’m Chris Fornesa and my handle is @cfornesa on <a href="https://github.com/cfornesa">GitHub</a> and <a href="https://www.linkedin.com/in/cfornesa/" target="_blank">LinkedIn</a>.
 - 👀 I’m interested in history, keeping up with the news, and creating art.  Additional passions include disability rights, LGBT rights, and, overall, learning about and dismantling myths, stereotypes, and other systemic issues that result in harm to minoritized populations.
 - 🌱 I’m currently learning data science through Boston University's MS in Data Science program.
@@ -5,6 +9,13 @@
 - 📫 How to reach me cfornesa@bu.edu.
 - 😄 Pronouns: he/they.
 - ⚡ Fun fact: I use my home art studio to study and practice playing my theremin (very badly), then drawing sometimes.
+
+### Current Goals
+- [x] Finish Week 2 assignments in MOD A of the Online MSDS.
+- [ ] Finish the "First day on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
+- [ ] Finish the "First week on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
+
+View the codebase for this site <a href="https://github.com/cfornesa/skills-github-pages">here</a>.
 
 <!---
 cfornesa/cfornesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
