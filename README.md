@@ -1,4 +1,4 @@
-###A very curious person.
+### A very curious person.
 
 - 👋 Hi, I’m Chris Fornesa and my handle is @cfornesa on <a href="https://github.com/cfornesa">GitHub</a> and <a href="https://www.linkedin.com/in/cfornesa/" target="_blank">LinkedIn</a>.
 - 👀 I’m interested in history, keeping up with the news, and creating art.  Additional passions include disability rights, LGBT rights, and, overall, learning about and dismantling myths, stereotypes, and other systemic issues that result in harm to minoritized populations.
