@@ -1,3 +1,7 @@
+---
+title: "CFornesa"
+---
+
 <h1 style="text-align: center;">CFornesa</h1>
 
 <h3 style="text-align: center;">A very curious person.</h3>
