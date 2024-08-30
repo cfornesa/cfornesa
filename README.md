@@ -9,10 +9,10 @@ Mobile Data SME.  MS in Data Science candidate.  A very curious person.
 - 😄 Pronouns: he/they.
 - ⚡ Fun fact: I use my home art studio to study and practice playing my theremin (very badly), then drawing sometimes.
 
-## My Current Goals
+## My Current Learning Goals - August 2024
 - [x]  Finish Week 2 assignments in MOD A of the Online MSDS.
-- [ ]  Finish the "First day on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
-- [ ]  Finish the "First week on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
+- [x]  Finish the "First day on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
+- [x]  Learn more about and review Python and relevant Python Libraries.
 
 View my GitHub profile and repos <a href="https://github.com/cfornesa">here</a> and visit my <a href="https://chris.com.ph">main portfolio website</a>.
 
